@@ -1,74 +1,104 @@
-# 👋 Olá, eu sou a Luana Cristina da Silva
-
-✨ Estudante apaixonada por tecnologia, código limpo e infraestrutura bem feita.   
-🧠 Aluna de **Análise e Desenvolvimento de Sistemas** no SENAC-PE  
-📍 Baseada em Olinda, PE — codando e aprendendo com um café do lado (às vezes dois ☕)
+<h1 align="center">👩‍💻 Luana Cristina da Silva</h1>
+<h3 align="center">Foco em dados, frontend e elegância. Mas se o back precisar... eu entrego.</h3>
 
 ---
 
-## 💡 Sobre mim
+### 🔎 Quem Sou Eu
+Desenvolvedora em formação com paixão por dados, design funcional e código bem estruturado.
+Atualmente curso Análise e Desenvolvimento de Sistemas, onde venho aplicando conhecimentos sólidos em:
 
-Sou uma desenvolvedora em formação que acredita em escrever código com propósito e aprender tecnologias que constroem soluções de verdade.  
-Minhas áreas de interesse incluem:
+Banco de Dados (relacional e não-relacional)
 
-- ☁️ Cloud Computing (AWS principalmente)
-- 🛠️ Infraestrutura como Código (IaC)
-- 🔁 Integração Contínua e Deploy Automatizado (CI/CD)
-- 🧠 Modelos de Linguagem (LLMs)
-- 💻 Backend com Python
-- 📦 Versionamento organizado, ou pelo menos tentando 🫣
+Análise de Dados (com foco em geração de insights e visualizações)
 
-Estou em constante aprendizado e trabalhando em projetos práticos que envolvem tudo isso — alguns feitos individualmente, outros em equipe, todos com muita intenção.
+Desenvolvimento Frontend (web e mobile com atenção à usabilidade)
 
----
+Arquitetura Back-end (RESTful, autenticação, organização modular)
 
-## 🚀 Projetos em Destaque
+Tenho como diferencial a organização dos meus projetos, boas práticas de versionamento e um olhar atento à documentação — porque código bom também se comunica.
 
-### 🏋️‍♀️ [Academia Corpo em Forma](https://github.com/Luanacsilva/Academia-corpo-em-forma)
-API desenvolvida em Python e hospedada na **AWS EC2**, com banco de dados **PostgreSQL via RDS**, utilizando **Terraform** para provisionamento de infraestrutura e **GitHub Actions** para CI/CD.  
-Projeto prático de cloud computing com foco em **deploy automatizado e boas práticas de DevOps**.
-
+Estou sempre aprendendo, evoluindo, e buscando entregar soluções que façam sentido, funcionem bem e tenham propósito.
 
 ---
 
-### 🤖 [LLM — Projeto Acadêmico FECOMERCIO PE](https://github.com/Luanacsilva/llm)
-Projeto colaborativo sobre **Modelos de Linguagem de Grande Escala (LLMs)**, desenvolvido com a turma da FECOMERCIO PE e orientação docente.  
-Fork mantido com intenção de colaboração, aprendizado e futuras contribuições.
+### 🔎 Em busca de:
 
+📌 Oportunidades nas áreas de:  
+- **Banco de Dados**  
+- **Análise de Dados**  
+- **Frontend Web ou Mobile**
 
-
----
-
-### 🛠️ [ProjetoFAST — Qualidade de Software + CI/CD](https://github.com/Luanacsilva/ProjetoFAST)
-Repositório forkado de um projeto do professor [Ronierison Maciel](https://github.com/RonierisonMaciel), com foco em **boas práticas de qualidade de software**, testes automatizados e integração contínua com GitHub Actions.
-
-
+Mas deixo claro:  
+> **Back-end não é um mistério. É mais uma skill da minha mochila.**
 
 ---
 
-## 🧰 Tecnologias que uso/estudo
+### 🚀 Repositórios em Destaque
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📫 Onde me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/luana-cristina-b4003a327/)
-- 📧 lucris_231@hotmail.com
+| Projeto | Descrição |
+|--------|------------|
+| [`Sistema-de-gerenciamento-de-livros-com-MongoDB`](https://github.com/Luanacsilva/Sistema-de-gerenciamento-de-livros-com-MongoDB) | 📚 API CRUD com autenticação usando Node.js, TypeScript e MongoDB |
+| [`Academia-corpo-em-forma`](https://github.com/Luanacsilva/Academia-corpo-em-forma) | 🏋️ Infraestrutura com deploy na AWS EC2, CI/CD e backend em Python |
+| [`life-insurance-eda`](https://github.com/Luanacsilva/life-insurance-eda) | 📈 Análise exploratória com Pandas e visualização de dados |
+| [`bigdata-analysis-python`](https://github.com/Luanacsilva/bigdata-analysis-python) | 🧪 Scripts de análise com Scikit-learn, Seaborn e Matplotlib |
+| [`TerrorMobile`](https://github.com/Luanacsilva/TerrorMobile) | 📱 App mobile com React Native e CRUD de produtos |
+| [`academic-control-backend`](https://github.com/Luanacsilva/academic-control-backend) | 🏫 Backend de sistema estudantil com múltiplos tipos de usuários e permissões |
 
 ---
 
-## ⚖️ Licenciamento
+### 💼 Skills e Stacks
 
-Os projetos pessoais aqui no GitHub estão licenciados sob [MIT License](https://opensource.org/licenses/MIT), a menos que indicado de outra forma.
+#### 💻 Linguagens
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+#### 🧠 Dados & Análise
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2B303A?logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black)
+
+#### 🛠️ Back-end
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
+![JWT](https://img.shields.io/badge/-JWT-orange)
+
+#### 💾 Banco de Dados
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+
+#### 🎨 Frontend & Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+
+#### ☁️ Infra & CI/CD
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-5C4EE5?logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+
+#### 📦 Ferramentas
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia)
+
+#### 🧬 Soft Skills
+![organização](https://img.shields.io/badge/organização-absurda-blueviolet)
+![aprendizado contínuo](https://img.shields.io/badge/aprendizado-contínuo-green)
+![documentação impecável](https://img.shields.io/badge/documentação-impecável-yellow)
 
 ---
 
-### 😄 Curiosidade:
-> Eu dei fork em repositórios... mas também dei push no meu futuro 😎
+### 📫 Onde Me Encontrar
+
+📧 **lucris_231@hotmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/luana-cristina-b4003a327/)  
+🐙 [Portfólio GitHub](https://github.com/Luanacsilva)
+
+---
+
+> ⚡ “O que eu entrego? Código limpo, projeto bem documentado e resultado real.”  
+> 🌻 Se o seu time valoriza organização e capacidade de adaptação: **a vaga é minha.**
