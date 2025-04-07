@@ -1,10 +1,16 @@
-<h4 align="center">🌎 Esta é a versão em português do meu perfil.</h4>
-<p align="right">
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Esta%20%C3%A9%20a%20vers%C3%A3o%20em%20portugu%C3%AAs%20do%20meu%20perfil.-blue?style=flat-square" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
     <img src="https://img.shields.io/badge/LANG-PT--BR-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.en.md">
     <img src="https://img.shields.io/badge/LANG-EN-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.es.md">
+    <img src="https://img.shields.io/badge/LANG-ES-yellow?style=for-the-badge" />
   </a>
 </p>
 
