@@ -1,11 +1,20 @@
-<p align="right">
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Esta%20es%20la%20versi%C3%B3n%20en%20espa%C3%B1ol%20de%20mi%20perfil.-blue?style=flat-square" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
-    <img src="https://img.shields.io/badge/lang-pt--br-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-PT--BR-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.en.md">
-    <img src="https://img.shields.io/badge/lang-en-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-EN-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.es.md">
+    <img src="https://img.shields.io/badge/LANG-ES-yellow?style=for-the-badge" />
   </a>
 </p>
+
+
 
 <h1 align="center">👩‍💻 Luana Cristina da Silva</h1>
 <h3 align="center">Apasionada por datos, frontend y elegancia. Pero si el backend llama... yo respondo.</h3>
