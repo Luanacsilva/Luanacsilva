@@ -1,8 +1,9 @@
 <p align="right">
-  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
-    <img src="https://img.shields.io/badge/lang-en-orange?style=for-the-badge" />
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.pt-br.md">
+    <img src="https://img.shields.io/badge/lang-pt--br-blue?style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
