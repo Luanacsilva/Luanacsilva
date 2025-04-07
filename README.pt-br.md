@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
+    <img src="https://img.shields.io/badge/lang-en-orange?style=for-the-badge" />
+  </a>
+</p>
+
 <p align="center">
   <a href="#pt-br">🇧🇷 Português</a> | <a href="#en">🇺🇸 English</a>
 </p>
