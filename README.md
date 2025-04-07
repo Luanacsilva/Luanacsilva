@@ -1,3 +1,4 @@
+<h4 align="center">🌎 Esta é a versão em português do meu perfil.</h4>
 <p align="right">
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
     <img src="https://img.shields.io/badge/LANG-PT--BR-blue?style=for-the-badge" />
