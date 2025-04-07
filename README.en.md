@@ -1,9 +1,20 @@
-<h4 align="center">🌐 This is the English version of my profile.</h4>
-<p align="right">
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_This%20is%20the%20English%20version%20of%20my%20profile.-orange?style=flat-square" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
-    <img src="https://img.shields.io/badge/lang-pt--br-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-PT--BR-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/LANG-EN-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.es.md">
+    <img src="https://img.shields.io/badge/LANG-ES-yellow?style=for-the-badge" />
   </a>
 </p>
+
 
 <h1 align="center">👩‍💻 Luana Cristina da Silva</h1>
 <h3 align="center">Focused on data, frontend and elegance. But if backend calls... I show up.</h3>
