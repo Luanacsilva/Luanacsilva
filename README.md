@@ -1,15 +1,13 @@
 <p align="right">
   <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.md">
-    <img src="https://img.shields.io/badge/lang-en-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LANG-PT--BR-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Luanacsilva/Luanacsilva/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/LANG-EN-orange?style=for-the-badge" />
   </a>
 </p>
 
-<p align="center">
-  <a href="#pt-br">🇧🇷 Português</a> | <a href="#en">🇺🇸 English</a>
-</p>
-
 ---
-
 <details open>
 <summary id="pt-br">🇧🇷 Versão em Português</summary>
 
